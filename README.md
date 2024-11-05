@@ -1,3 +1,3 @@
 # gitlab
-this is for git lab <br>
+This is for git lab <br>
 My name is Areeba Moosa
